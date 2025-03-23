@@ -1,6 +1,5 @@
-[![crates.io](https://img.shields.io/crates/v/access-mask.svg)](https://crates.io/crates/access-mask)
-[![Documentation](https://docs.rs/access-mask/badge.svg)](https://docs.rs/access-mask)
-[![MIT licensed](https://img.shields.io/crates/l/access-mask.svg)](LICENSE-MIT)
+[![crates.io](https://img.shields.io/crates/v/access-mask)](https://crates.io/crates/access-mask)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue)](LICENSE-MIT)
 
 # AccessMask
 AccessMask is a command line tool that interprets handle access mask values (both generic and specific).
